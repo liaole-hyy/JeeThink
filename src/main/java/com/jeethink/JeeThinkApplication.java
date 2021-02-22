@@ -18,5 +18,6 @@ public class JeeThinkApplication
         // System.setProperty("spring.devtools.restart.enabled", "false");
         SpringApplication.run(JeeThinkApplication.class, args);
         System.out.println("(♥◠‿◠)ﾉﾞ  JeeThink启动成功   ლ(´ڡ`ლ)ﾞ  \n");
+         System.out.println("(♥◠‿◠)ﾉﾞ  JeeThink启动成功1111   ლ(´ڡ`ლ)ﾞ  \n");
     }
 }
